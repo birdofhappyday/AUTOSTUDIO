@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /// <summary>
-/// BootUIBase : PC와 VR 기초 UI시스템의 공통된 부분을 담당하는 기초 클래스.
+/// BootUIBase : PC부분을 담당하는 소스
 /// </summary>
 public abstract partial class BootUIBase : MonoBehaviour
 {
