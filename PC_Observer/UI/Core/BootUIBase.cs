@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /// <summary>
-/// BootUIBase : PC부분을 담당하는 소스
+/// BootUIBase : PC 옵져버 부분을 담당하는 소스
 /// </summary>
 public abstract partial class BootUIBase : MonoBehaviour
 {
